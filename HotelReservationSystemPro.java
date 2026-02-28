@@ -9,7 +9,7 @@ public class HotelReservationSystemPro extends JFrame {
 
     private static final String url = "jdbc:mysql://localhost:3306/hotel_db";
     private static final String user = "root";
-    private static final String password = "Pratibha@22783";
+    private static final String password = "Your password ";
 
     private JTextField idField, guestField, roomField, contactField, searchField;
     private JTable table;
